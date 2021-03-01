@@ -2,7 +2,7 @@
 
 ### Hello World em Python
 
-**Tecnologias Utilizadas**
+**Tecnologias Utilizadas:**
 
 1. Ubuntu
 2. Windows
@@ -23,7 +23,19 @@
 
       env/Scripts/activate
 
-			python hello.py
-			
+      python hello.py
 
-*GCC132 - Modelagem e Implementação de Software - REO6
+
+![GitHub Logo](/images/python-logo.png)
+
+
+```
+def hello_world():
+    print('Hello World!')
+```
+
+https://github.com/ghamorim/ - automatic!
+[GitHub](http://github.com)
+
+
+*GCC132* - Modelagem e Implementação de Software - REO6
