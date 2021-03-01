@@ -26,4 +26,16 @@
 			python hello.py
 			
 
-*GCC132 - Modelagem e Implementação de Software - REO6
+![GitHub Logo](/images/python-logo.png)
+
+
+```python
+def hello_world():
+    print('Hello World!')
+```
+
+https://github.com/ghamorim/
+[GitHub](https://github.com/ghamorim/)
+
+
+*GCC132* - Modelagem e Implementação de Software - REO6
